@@ -1,0 +1,17 @@
+-lallegro
+-lallegro_font
+-lallegro_primitives
+-lallegro_acodec
+-lallegro_image
+-lallegro_ttf
+-lallegro_audio
+-lallegro_main
+-lallegro_video
+-lallegro_color
+-lallegro_memfile
+-lallegro_dialog
+-lallegro_physfs
+
+ gcc mapa.c -o map -lallegro -lallegro_dialog -lallegro_image -lallegro_acodec -lallegro_audio -lallegro_font -lallegro_ttf
+
+   
